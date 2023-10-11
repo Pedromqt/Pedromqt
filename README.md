@@ -21,4 +21,4 @@ Hi there 👋
  	<a href="https://www.twitch.tv/pedrito12gdc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoDias&layout=compact&langs_count=16&theme=dar"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= Pedromqt&layout=compact&langs_count=16&theme=dar"/>
