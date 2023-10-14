@@ -12,7 +12,7 @@ Hi there 👋
   <img align="lazy" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
  
-  <img loading="lazy" src="[https://icons8.com.br/icon/40670/programa%C3%A7%C3%A3o-c.svg](http://www.w3.org/2000/svg)" width="40" height="40"/> 
+  <img loading="lazy" src="[[https://icons8.com.br/icon/40670/programa%C3%A7%C3%A3o-c.svg](http://www.w3.org/2000/svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)" width="40" height="40"/> 
  
 </div>
   
