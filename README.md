@@ -15,7 +15,6 @@ Hi there 👋
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
  
 </div>
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg
   ##
  
 <div> 
