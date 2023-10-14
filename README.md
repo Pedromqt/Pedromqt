@@ -3,12 +3,12 @@ Hi there 👋
 
 
 
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 Currently learning Computer Engineering
 - 📫 How to reach me: Discord or Insta
-- ⚡ Fun fact: I love Moelas!
+- ⚡ Facts about me: I love Programming and Motorcycles!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
