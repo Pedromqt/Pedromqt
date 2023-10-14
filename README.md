@@ -15,7 +15,6 @@ Hi there 👋
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
  
 </div>
-  ##
  
 <div> 
   <a href="https://www.instagram.com/pedrito_trindade4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
