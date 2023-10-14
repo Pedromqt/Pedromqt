@@ -14,8 +14,7 @@ Hi there 👋
 </div>
 <div> 
   <a href="https://www.instagram.com/pedrito_trindade4/" target="black"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-Pei#1606
-<a href="https://discord.com/Pei#5422" >
+<a href="https://discord.com/Pei#5422" target="black"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>>
 
 </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedromqt&layout=compact&langs_count=16&theme=dark"/>
