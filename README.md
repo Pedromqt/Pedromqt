@@ -11,7 +11,7 @@ Hi there 👋
   
   <img align="lazy" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img loading="lazy" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://www.google.com/search?q=linguagem+programacao+c+logo&tbm=isch&ved=2ahUKEwjP9qCCufWBAxV_uCcCHePgAnsQ2-cCegQIABAA&oq=linguagem+programacao+c+logo&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQGBCABFD0D1jZE2D6FGgAcAB4AIABaIgB2ASSAQMyLjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=5XwqZY_wK__wnsEP48GL2Ac&bih=739&biw=1536&rlz=1C1GCEA_enPT1074PT1074#imgrc=S71MI5qbu-kn7M)](https://icons8.com.br/icons/set/c-programming)" width="40" height="40"/> 
+  <img loading="lazy" src="<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M329.1 142.9c-62.5-62.5-155.8-62.5-218.3 0s-62.5 163.8 0 226.3s155.8 62.5 218.3 0c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3c-87.5 87.5-221.3 87.5-308.8 0s-87.5-229.3 0-316.8s221.3-87.5 308.8 0c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>" width="40" height="40"/> 
  
 </div>
   
