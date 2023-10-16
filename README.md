@@ -12,4 +12,4 @@ Hi there 👋
   <img loading="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
   <img loading="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
 </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedromqt&layout=compact&langs_count=16&theme=black"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedromqt&layout=compact&langs_count=16&theme=dark"/>
