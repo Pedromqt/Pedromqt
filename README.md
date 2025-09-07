@@ -1,7 +1,7 @@
 # Hello! 👋 Welcome to my profile!
 
 ## 💡 About me:
-- 🔝 Currently studying Computer Engineering in Coimbra (3rd year of degree).
+- 🔝 Currently studying Computer Engineering in Coimbra (Master Degree Software Eng.).
 - 🌟 I am passionate about technology, innovation and big challenging tasks.
 
 ## 👥 Connect with me:
